@@ -4,6 +4,7 @@
         "watch": true,
         "target": "ES5",
         "lib": ["DOM", "ES2015"],
-        "jsx": "react"
+        "jsx": "react",
+        "noImplicitAny": false
     }
 }
